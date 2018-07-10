@@ -12,7 +12,7 @@
 The mobile app Shango (http://shangoapp.com) allows the managment of the Lightning daemon on your RaspiBolt. It provides 
 an status overview, lists peers, allows to open & close channels, make payments and create invoices.
 
-As this app controls has full control over you RaspiBolt, there is trust involved. Is is unclear, if this will be an 
+As this app controls has full control over you RaspiBolt, there is trust involved. It is unclear, if this will be an 
 open-source application and whether it's trustworthy. **Use it at your own risk.**
 
 Even if the app is trustworthy, your RaspiBolt needs to be externally controlled using the gRPC interface. This adds an 
